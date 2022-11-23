@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: [ethanhasbrouck02@gmail.com](https://paperhive.org/).
+- 📫 How to reach me: [ethanhasbrouck02@gmail.com](ethanhasbrouck@gmail.com)
 <!--
 **eefh/eefh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
